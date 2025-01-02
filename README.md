@@ -5,6 +5,10 @@ This is a professional-grade, multi-level dashboard application designed for gov
 
 ---
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/lPSQCN5WODk)
+
+---
+
 ### **Key Features**
 1. **Multi-Level User Roles:**
    - **Super Admin**: Accesses and oversees all operations and data.
