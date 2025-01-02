@@ -5,7 +5,7 @@ This is a professional-grade, multi-level dashboard application designed for gov
 
 ---
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/lPSQCN5WODk)
+[![Watch the video](https://img.youtube.com/vi/lPSQCN5WODk/maxresdefault.jpg)](https://youtu.be/lPSQCN5WODk)
 
 ---
 
