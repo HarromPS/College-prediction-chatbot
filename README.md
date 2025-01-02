@@ -1,7 +1,3 @@
-Here's a well-structured README for your dashboard application:
-
----
-
 # **Institution Admission Query and Verification System**
 
 ### **Overview**
