@@ -4,9 +4,7 @@
 This is a professional-grade, multi-level dashboard application designed for government and institutional use. The system simplifies the admission query and verification process for students and administrators. It integrates React for the frontend, Python (Flask) for backend operations, and Machine Learning (ML) algorithms to predict college admissions. Additionally, it leverages Large Language Models (LLMs) for chatbot-based query resolution, making it an intelligent and efficient platform.
 
 ---
-
-[![Watch the video](https://img.youtube.com/vi/lPSQCN5WODk/maxresdefault.jpg)](https://youtu.be/lPSQCN5WODk)
-
+[![Collegepredictionchatbot__Dashboards](https://github.com/user-attachments/assets/e1397dce-baf6-4dfc-a786-f81e102bc45f)](https://youtu.be/lPSQCN5WODk)
 ---
 
 ### **Key Features**
